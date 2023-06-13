@@ -16,7 +16,7 @@ export default function PostComment() {
       </S.Container>
       <S.CommentContent>
         안녕하세요. 사진이 너무 멋있어요. 한라봉 언제 먹을 수 있나요? 기다리기
-        지쳤어요 땡뻘땡뻘...어쩌구 저쩌구 눈이 침침해지네요 엉엉
+        지쳤어요 땡뻘땡뻘...어쩌구 저쩌구 눈이 침침해지네요 엉엉 제발 되어라
       </S.CommentContent>
     </div>
   );
